@@ -12,7 +12,7 @@ Organizational Unit graphical selection dialog provided by MicaH's Choose-ADOrga
 ## Usage ##
 1. Pass a list of hosts from a text file by calling <code>Mass-Ping.ps1 hostlist.txt[,hostlist2.txt]</code>
 2. Call <code>Mass-Ping.ps1</code> with no parameters to enter interactive mode.
-  1. If waking hosts from AD OU, select the OU from the graphical dialog.
+  1. If querying hosts from AD OU, select the OU from the graphical dialog.
   2. Else, enter hostnames or IPs one by one.
 
 Read through script comments for the lines that must be edited to suit your environment.
